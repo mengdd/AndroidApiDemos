@@ -1,4 +1,4 @@
-AndroidApiDemos
+Android API Demos
 ===============
 
 Android Api Demos for Android 4.3, API Level 18
